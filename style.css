@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+title{text-align: center;}
+h1{font-family: 'Franklin Gothic Medium';font-size: large;}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  div#greeting{font-size: large;text-decoration: underline;}
